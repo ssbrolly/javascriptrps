@@ -1,31 +1,4 @@
-// var input = document.getElementById('myInput')
-// var label = document.getElementById('myLabel')
-// var list = document.getElementById('messages')
-// var btn = document.getElementById('btn')
-// var clearBtn = document.getElementById('clear')
 
-// function preview(e) {
-//   label.innerHTML = e.target.value 
-// }
-
-// function addMessage() {
-//   var li = document.createElement('li')
-//   li.innerHTML = input.value
-//   list.appendChild(li)
-//   label.innerHTML = ''
-//   input.value = ''
-//   input.focus()
-// }
-
-// function clear() {
-//   input.value = ''
-//   label.innerHTML = ''
-//   list.innerHTML = ''
-// }
-
-// input.addEventListener('keyup', preview)
-// btn.addEventListener('click', addMessage)
-// clearBtn.addEventListener('click', clear)
 
 var user;
 var computer;
